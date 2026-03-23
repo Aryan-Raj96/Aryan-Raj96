@@ -1,4 +1,4 @@
-#Hi there 👋, I'm Aryan Raj
+## Hi there 👋, I'm Aryan Raj
 
 🔥 A passionate **Java & Backend Developer** from India
 🌱 Currently learning **DSA, Backend Development & Problem Solving**
