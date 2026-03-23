@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-Raj96/Aryan-Raj96/98377868ecbda70fe2d62a22b75115f57aeb4c99/photokb-resized.jpg" width="180" style="border-radius:50%" />
+</p>
 # Hi there 👋, I'm Aryan Raj
 
 🔥 A passionate **Java & Backend Developer** from India
